@@ -3,7 +3,7 @@ plugins {
     id 'application'
 }
 
-mainClassName = 'Kirby,KirbyGame'
+mainClassName = 'Kirby.KirbyGame'
 
 sourceCompatibility = 1.8
 
@@ -13,7 +13,7 @@ repositories {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'KirbyGame'
+        attributes 'Main-Class': 'Kirby.KirbyGame'
     }
 }
 
