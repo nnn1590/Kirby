@@ -26,3 +26,7 @@ Networking	- at	least	1	other	player	that	can	play	Kirby – Partially	complete
 Background	Music
 License:
 We	are	adapting	the	properties	of	a	CC0	license.	Please	use	this	code	responsibly.	
+
+5. JIG library
+Original: https://gitlab.encs.vancouver.wsu.edu/wallaces/JIG
+For Gradle + IDEA: https://github.com/nnn1590/JIG
